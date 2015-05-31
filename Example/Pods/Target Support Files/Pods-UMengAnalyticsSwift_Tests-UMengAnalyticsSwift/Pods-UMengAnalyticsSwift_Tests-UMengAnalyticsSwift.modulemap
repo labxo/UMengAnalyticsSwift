@@ -1,0 +1,6 @@
+framework module UMengAnalyticsSwift {
+  umbrella header "Pods-UMengAnalyticsSwift_Tests-UMengAnalyticsSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

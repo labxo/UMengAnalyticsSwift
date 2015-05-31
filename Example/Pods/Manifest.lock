@@ -1,0 +1,14 @@
+PODS:
+  - UMengAnalyticsSwift (0.1.0)
+
+DEPENDENCIES:
+  - UMengAnalyticsSwift (from `../`)
+
+EXTERNAL SOURCES:
+  UMengAnalyticsSwift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UMengAnalyticsSwift: d9292e34ba6a0307d735f22199fbccd68d9d4568
+
+COCOAPODS: 0.37.2
